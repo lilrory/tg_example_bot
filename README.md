@@ -1,1 +1,1 @@
-# tg_example_bot
+Бот написан по книге от Groosha.
